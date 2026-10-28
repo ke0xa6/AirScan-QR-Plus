@@ -1,0 +1,6 @@
+lib.html
+index.html.bak
+*.o
+*.exe.old
+*.locked
+.claude/
